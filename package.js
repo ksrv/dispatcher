@@ -2,7 +2,7 @@ Package.describe({
   name: 'ksrv:dispatcher',
   version: '0.0.1',
   summary: 'Simple event dispatcher.',
-  git: '',
+  git: 'git@github.com:ksrv/dispatcher.git',
   documentation: 'README.md'
 });
 
